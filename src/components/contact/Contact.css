@@ -1,0 +1,20 @@
+#contact.contactDiv{
+    display: inline-block;
+    border: 2px solid lightblue;
+    width: 300px;
+    border-radius: 12px;
+    margin: 5px;
+    padding: 5px 15px;
+}
+
+#contact.male{
+    background-color: lightblue;
+}
+
+#contact.female{
+    background-color: lightpink;
+}
+
+.contacted{
+    color: #999;
+}
